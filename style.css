@@ -1,0 +1,26 @@
+* {
+    margin: 10;
+    padding: 10;
+}
+
+a {   
+    background-color:rgb(161, 166, 216);
+    color:black;
+    border: 4px solid rgb(14, 32, 133);
+    border-radius: 1px;
+    padding: 30px 50px;    
+    font-family: Arial, Helvetica, sans-serif;    
+    font-weight: 500;
+}
+a:hover{
+    background-color:rgb(95, 105, 160);
+    color: rgb(0, 0, 0);
+}
+div{
+    margin: 100px;
+}
+
+img{
+    width: 4%;
+    
+}
